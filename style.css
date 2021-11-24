@@ -1,0 +1,65 @@
+body {
+    background-color: #010409;
+    vertical-align: middle;
+    height: 90%;
+    width: 80%; 
+    margin-left: auto;
+    margin-right: auto;
+}
+
+p {
+    text-align: center;
+    padding: 70px;
+    color: white;
+}
+
+.list {
+    padding: 50px;
+    line-height: 30px;
+    list-style-position: outside;
+   list-style-type: "-";
+}
+
+li {
+    padding: 20px;
+}
+
+h3 {
+    color: rgb(173, 173, 250);
+    text-align: center;
+}
+
+div {
+    border-radius: 10px;
+    border-style: solid;
+    border-color: rgb(11, 51, 47);
+    border-width: thin;
+    background-color: #161b21;
+    margin: 40px;    
+}
+
+.name {
+    text-decoration: none;
+    text-align: center;
+    color: rgb(219, 219, 250);
+    top: 50px;
+    position: relative;
+}
+
+.habilidades {
+    margin-right: ;
+}
+
+#site {
+    text-decoration: none;
+    color: rgb(196, 196, 250);
+}
+
+#profilepic {
+    width: 100%;
+    max-width: 250px;
+    height: auto;
+    position: absolute;
+    right: 30%;
+    top: 71%;
+}
